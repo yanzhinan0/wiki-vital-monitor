@@ -1,26 +1,22 @@
-# 使用说明：
-# 1. 将此文件放到你的 GitHub 仓库的 .github/workflows/ 目录下，命名为 monitor.yml
-# 2. 在仓库 Settings > Secrets and variables > Actions > Secrets 中添加通知密钥
-# 3. GitHub Actions 将每 6 小时自动检查 Level 1-3 的变动，免费且无需维护服务器
-
 name: Monitor Wikipedia Vital Articles Level 1-3
 
 on:
   schedule:
-    # 每 6 小时检查一次（UTC 时间）
-    # 对应北京时间：凌晨2点 / 早8点 / 下午2点 / 晚8点
     - cron: '0 */6 * * *'
-  workflow_dispatch:  # 允许手动点击运行
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   monitor:
     runs-on: ubuntu-latest
-    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -35,12 +31,14 @@ jobs:
           python3 vital_articles_monitor.py --run-once \
             --notify-serverchan "${{ secrets.SERVERCHAN_KEY }}"
       
-      - name: Commit and push snapshots if changed
+      - name: Commit and push snapshots
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add va_monitor_data/
-          git diff --cached --quiet || (
-            git commit -m "📸 Update VA snapshots $(date -u '+%Y-%m-%d %H:%M UTC')" &&
-            git push
-          )
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "📸 Update VA snapshots $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
