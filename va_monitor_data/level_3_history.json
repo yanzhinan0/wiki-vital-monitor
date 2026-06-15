@@ -13,5 +13,16 @@
     ],
     "old_total": 1003,
     "new_total": 1001
+  },
+  {
+    "level": 3,
+    "revision_timestamp": "2026-06-15T20:25:41Z",
+    "checked_at": "2026-06-15T20:41:55.103967+00:00",
+    "added": [],
+    "removed": [
+      "Chocolate"
+    ],
+    "old_total": 1001,
+    "new_total": 1000
   }
 ]
