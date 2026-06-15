@@ -1,0 +1,17 @@
+[
+  {
+    "level": 3,
+    "revision_timestamp": "2026-06-14T23:43:18Z",
+    "checked_at": "2026-06-15T02:12:16.033562+00:00",
+    "added": [
+      "Journalism"
+    ],
+    "removed": [
+      "Musicology",
+      "News",
+      "Opera"
+    ],
+    "old_total": 1003,
+    "new_total": 1001
+  }
+]
