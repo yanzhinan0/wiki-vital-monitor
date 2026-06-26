@@ -24,5 +24,16 @@
     ],
     "old_total": 1001,
     "new_total": 1000
+  },
+  {
+    "level": 3,
+    "revision_timestamp": "2026-06-26T08:05:38Z",
+    "checked_at": "2026-06-26T08:44:21.597434+00:00",
+    "added": [],
+    "removed": [
+      "Great Lakes"
+    ],
+    "old_total": 1000,
+    "new_total": 999
   }
 ]
