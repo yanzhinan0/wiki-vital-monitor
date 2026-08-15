@@ -48,5 +48,16 @@
     ],
     "old_total": 999,
     "new_total": 999
+  },
+  {
+    "level": 3,
+    "revision_timestamp": "2026-08-15T04:19:53Z",
+    "checked_at": "2026-08-15T06:15:14.859371+00:00",
+    "added": [
+      "Narrative"
+    ],
+    "removed": [],
+    "old_total": 999,
+    "new_total": 1000
   }
 ]
