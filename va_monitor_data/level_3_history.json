@@ -59,5 +59,16 @@
     "removed": [],
     "old_total": 999,
     "new_total": 1000
+  },
+  {
+    "level": 3,
+    "revision_timestamp": "2026-08-18T17:11:49Z",
+    "checked_at": "2026-08-18T18:17:05.101265+00:00",
+    "added": [],
+    "removed": [
+      "Medical imaging"
+    ],
+    "old_total": 1000,
+    "new_total": 999
   }
 ]
