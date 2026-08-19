@@ -70,5 +70,18 @@
     ],
     "old_total": 1000,
     "new_total": 999
+  },
+  {
+    "level": 3,
+    "revision_timestamp": "2026-08-19T02:14:18Z",
+    "checked_at": "2026-08-19T06:19:53.129230+00:00",
+    "added": [
+      "Miguel de Cervantes"
+    ],
+    "removed": [
+      "Voltaire"
+    ],
+    "old_total": 999,
+    "new_total": 999
   }
 ]
