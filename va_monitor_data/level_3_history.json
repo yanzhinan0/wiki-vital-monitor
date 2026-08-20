@@ -83,5 +83,18 @@
     ],
     "old_total": 999,
     "new_total": 999
+  },
+  {
+    "level": 3,
+    "revision_timestamp": "2026-08-20T03:41:53Z",
+    "checked_at": "2026-08-20T06:20:49.642494+00:00",
+    "added": [
+      "Respiratory system"
+    ],
+    "removed": [
+      "Breathing"
+    ],
+    "old_total": 999,
+    "new_total": 999
   }
 ]
