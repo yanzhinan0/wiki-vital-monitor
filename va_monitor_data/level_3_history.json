@@ -96,5 +96,32 @@
     ],
     "old_total": 999,
     "new_total": 999
+  },
+  {
+    "level": 3,
+    "revision_timestamp": "2026-08-26T11:57:10Z",
+    "checked_at": "2026-08-26T12:21:21.402870+00:00",
+    "added": [
+      "Beauty",
+      "Electrical engineering",
+      "Hair",
+      "Heat",
+      "Morality",
+      "Robot",
+      "South Asia",
+      "Sub-Saharan Africa"
+    ],
+    "removed": [
+      "Arabic script",
+      "Brahmic scripts",
+      "Cyrillic script",
+      "Integrated circuit",
+      "Latin script",
+      "Refrigeration",
+      "Robotics",
+      "Shoe"
+    ],
+    "old_total": 999,
+    "new_total": 999
   }
 ]
