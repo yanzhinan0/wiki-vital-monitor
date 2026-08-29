@@ -123,5 +123,16 @@
     ],
     "old_total": 999,
     "new_total": 999
+  },
+  {
+    "level": 3,
+    "revision_timestamp": "2026-08-29T03:49:56Z",
+    "checked_at": "2026-08-29T11:49:03.142940+00:00",
+    "added": [],
+    "removed": [
+      "Supply and demand"
+    ],
+    "old_total": 999,
+    "new_total": 998
   }
 ]
