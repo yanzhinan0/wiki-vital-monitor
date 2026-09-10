@@ -145,5 +145,18 @@
     ],
     "old_total": 998,
     "new_total": 997
+  },
+  {
+    "level": 3,
+    "revision_timestamp": "2026-09-10T16:44:40Z",
+    "checked_at": "2026-09-10T20:07:22.382379+00:00",
+    "added": [
+      "Cognition",
+      "Java",
+      "Writing system"
+    ],
+    "removed": [],
+    "old_total": 997,
+    "new_total": 1000
   }
 ]
