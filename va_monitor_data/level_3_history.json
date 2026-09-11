@@ -158,5 +158,18 @@
     "removed": [],
     "old_total": 997,
     "new_total": 1000
+  },
+  {
+    "level": 3,
+    "revision_timestamp": "2026-09-11T15:39:02Z",
+    "checked_at": "2026-09-11T20:06:38.753066+00:00",
+    "added": [
+      "Goods"
+    ],
+    "removed": [
+      "Molecular biology"
+    ],
+    "old_total": 1000,
+    "new_total": 1000
   }
 ]
