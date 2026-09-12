@@ -55,5 +55,67 @@
       "Wikipedia:Vital articles/Level 5/Technology/Transportation",
       "Wikipedia:Vital articles/Level 5/Technology/Weapons"
     ]
+  },
+  {
+    "level": 5,
+    "revision_timestamp": "2026-09-12T18:54:10Z",
+    "checked_at": "2026-09-12T19:43:03.244750+00:00",
+    "added": [
+      "Daron Acemoglu",
+      "Jacques Hadamard",
+      "John Garang"
+    ],
+    "removed": [
+      "Anita Hill",
+      "Colin Kaepernick",
+      "Iry-Hor",
+      "Lawrence Krauss",
+      "Philippe-François-Joseph Le Bas",
+      "Ruby Bridges"
+    ],
+    "old_total": 49833,
+    "new_total": 49830,
+    "source_page_count": 39,
+    "source_pages": [
+      "Wikipedia:Vital articles/Level 5/Arts/Audiovisual arts",
+      "Wikipedia:Vital articles/Level 5/Arts/Narrative arts",
+      "Wikipedia:Vital articles/Level 5/Biology and health sciences/Animals",
+      "Wikipedia:Vital articles/Level 5/Biology and health sciences/Biology",
+      "Wikipedia:Vital articles/Level 5/Biology and health sciences/Health",
+      "Wikipedia:Vital articles/Level 5/Biology and health sciences/Plants",
+      "Wikipedia:Vital articles/Level 5/Everyday life",
+      "Wikipedia:Vital articles/Level 5/Everyday life/Sports, games and recreation",
+      "Wikipedia:Vital articles/Level 5/Geography/Cities",
+      "Wikipedia:Vital articles/Level 5/Geography/Physical",
+      "Wikipedia:Vital articles/Level 5/Geography/Regions and countries",
+      "Wikipedia:Vital articles/Level 5/Geography/Technical",
+      "Wikipedia:Vital articles/Level 5/History",
+      "Wikipedia:Vital articles/Level 5/Mathematics",
+      "Wikipedia:Vital articles/Level 5/People/Artists, musicians, and composers",
+      "Wikipedia:Vital articles/Level 5/People/Entertainers, directors, producers, and screenwriters",
+      "Wikipedia:Vital articles/Level 5/People/Military personnel, revolutionaries, and activists",
+      "Wikipedia:Vital articles/Level 5/People/Miscellaneous",
+      "Wikipedia:Vital articles/Level 5/People/Philosophers, historians, political and social scientists",
+      "Wikipedia:Vital articles/Level 5/People/Politicians and leaders",
+      "Wikipedia:Vital articles/Level 5/People/Religious figures",
+      "Wikipedia:Vital articles/Level 5/People/Scientists, inventors, and mathematicians",
+      "Wikipedia:Vital articles/Level 5/People/Sports figures",
+      "Wikipedia:Vital articles/Level 5/People/Writers and journalists",
+      "Wikipedia:Vital articles/Level 5/Philosophy and religion",
+      "Wikipedia:Vital articles/Level 5/Physical sciences/Astronomy",
+      "Wikipedia:Vital articles/Level 5/Physical sciences/Basics and measurement",
+      "Wikipedia:Vital articles/Level 5/Physical sciences/Chemistry",
+      "Wikipedia:Vital articles/Level 5/Physical sciences/Earth science",
+      "Wikipedia:Vital articles/Level 5/Physical sciences/Physics",
+      "Wikipedia:Vital articles/Level 5/Society and social sciences/Culture",
+      "Wikipedia:Vital articles/Level 5/Society and social sciences/Politics and economics",
+      "Wikipedia:Vital articles/Level 5/Society and social sciences/Social studies",
+      "Wikipedia:Vital articles/Level 5/Technology",
+      "Wikipedia:Vital articles/Level 5/Technology/Agriculture",
+      "Wikipedia:Vital articles/Level 5/Technology/Computing and communication",
+      "Wikipedia:Vital articles/Level 5/Technology/Optical, navigation and astronomical",
+      "Wikipedia:Vital articles/Level 5/Technology/Transportation",
+      "Wikipedia:Vital articles/Level 5/Technology/Weapons"
+    ]
   }
 ]
