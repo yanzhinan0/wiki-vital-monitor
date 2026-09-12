@@ -1,44 +1,60 @@
-name: Monitor Wikipedia Vital Articles Level 1-3
+# 将此文件放进 GitHub 仓库的 .github/workflows/monitor.yml
+# 自动监控 Wikipedia Vital Articles Level 1–5，并通过 Server 酱发送微信通知。
+
+name: Monitor Wikipedia Vital Articles Level 1-5
 
 on:
   schedule:
+    # 每 6 小时检查一次（UTC）：中国标准时间约为 02:00 / 08:00 / 14:00 / 20:00
     - cron: '0 */6 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # 允许在 GitHub 页面手动点击运行
 
+# 允许工作流把首次快照、发生变动后的新快照和历史记录提交回仓库。
 permissions:
   contents: write
+
+# 避免 GitHub 关于 Node.js 20 的旧版动作运行环境警告。
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+# 如果定时运行和手动运行恰好重叠，让它们排队，避免同时 git push 造成冲突。
+concurrency:
+  group: wikipedia-vital-articles-monitor
+  cancel-in-progress: false
 
 jobs:
   monitor:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
-      
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      
+
       - name: Install dependencies
-        run: pip install requests
-      
-      - name: Run monitor check (Level 1-3)
+        run: pip install --disable-pip-version-check requests
+
+      - name: Run monitor check (Level 1-5)
         run: |
           python3 vital_articles_monitor.py --run-once \
             --notify-serverchan "${{ secrets.SERVERCHAN_KEY }}"
-      
-      - name: Commit and push snapshots
+
+      - name: Commit snapshots and history only when membership changed
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add va_monitor_data/
           if git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "No article-list changes to commit"
             exit 0
           fi
-          git commit -m "📸 Update VA snapshots $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git commit -m "Update Vital Articles snapshots $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
