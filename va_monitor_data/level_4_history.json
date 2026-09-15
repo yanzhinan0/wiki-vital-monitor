@@ -1,0 +1,31 @@
+[
+  {
+    "level": 4,
+    "revision_timestamp": "2026-09-15T08:37:06Z",
+    "checked_at": "2026-09-15T10:31:21.191229+00:00",
+    "added": [
+      "Conquest of Mexico-Tenochtitlan",
+      "Emigration"
+    ],
+    "removed": [
+      "J. Edgar Hoover",
+      "Spanish conquest of the Aztec Empire"
+    ],
+    "old_total": 10034,
+    "new_total": 10034,
+    "source_page_count": 11,
+    "source_pages": [
+      "Wikipedia:Vital articles/Level 4/Arts",
+      "Wikipedia:Vital articles/Level 4/Biology and health sciences",
+      "Wikipedia:Vital articles/Level 4/Everyday life",
+      "Wikipedia:Vital articles/Level 4/Geography",
+      "Wikipedia:Vital articles/Level 4/History",
+      "Wikipedia:Vital articles/Level 4/Mathematics",
+      "Wikipedia:Vital articles/Level 4/People",
+      "Wikipedia:Vital articles/Level 4/Philosophy and religion",
+      "Wikipedia:Vital articles/Level 4/Physical sciences",
+      "Wikipedia:Vital articles/Level 4/Society and social sciences",
+      "Wikipedia:Vital articles/Level 4/Technology"
+    ]
+  }
+]
