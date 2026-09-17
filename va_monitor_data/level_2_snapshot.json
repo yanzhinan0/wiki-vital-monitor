@@ -1,8 +1,14 @@
 {
+  "schema_version": 2,
   "level": 2,
-  "timestamp": "2026-07-05T14:05:42Z",
-  "checked_at": "2026-09-12T01:41:00.046620+00:00",
+  "timestamp": "2026-09-17T19:16:57Z",
+  "checked_at": "2026-09-17T20:36:18.766980+00:00",
   "total_count": 100,
+  "collection_method": "总页面",
+  "source_page_count": 1,
+  "source_pages": [
+    "Wikipedia:Vital_articles/Level_2"
+  ],
   "articles": [
     "Africa",
     "Agriculture",
@@ -15,7 +21,6 @@
     "Astronomy",
     "Atmosphere of Earth",
     "Biology",
-    "Business",
     "Cell (biology)",
     "Chemical element",
     "Chemistry",
@@ -68,6 +73,7 @@
     "Mathematics",
     "Matter",
     "Medicine",
+    "Metal",
     "Mind",
     "Modern era",
     "Moon",

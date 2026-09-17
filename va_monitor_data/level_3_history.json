@@ -171,5 +171,20 @@
     ],
     "old_total": 1000,
     "new_total": 1000
+  },
+  {
+    "level": 3,
+    "revision_timestamp": "2026-09-17T18:05:21Z",
+    "checked_at": "2026-09-17T20:36:19.977146+00:00",
+    "added": [
+      "Perception"
+    ],
+    "removed": [],
+    "old_total": 1000,
+    "new_total": 1001,
+    "source_page_count": 1,
+    "source_pages": [
+      "Wikipedia:Vital_articles/Level_3"
+    ]
   }
 ]

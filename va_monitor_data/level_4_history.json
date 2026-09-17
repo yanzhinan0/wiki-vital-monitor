@@ -54,5 +54,51 @@
       "Wikipedia:Vital articles/Level 4/Society and social sciences",
       "Wikipedia:Vital articles/Level 4/Technology"
     ]
+  },
+  {
+    "level": 4,
+    "revision_timestamp": "2026-09-17T19:07:26Z",
+    "checked_at": "2026-09-17T20:36:23.820003+00:00",
+    "added": [
+      "Interest (economics)",
+      "Kingfisher",
+      "Paul McCartney",
+      "Đại Việt"
+    ],
+    "removed": [
+      "Angara",
+      "Angiology",
+      "Clamp (tool)",
+      "Cyrus McCormick",
+      "Interest",
+      "Irtysh",
+      "Knot (unit)",
+      "Lumen (unit)",
+      "Lux",
+      "Ounce",
+      "River kingfisher",
+      "Scotia Sea",
+      "Songhua River",
+      "Straits of Florida",
+      "Thesaurus",
+      "Ton",
+      "Yayoi period"
+    ],
+    "old_total": 10034,
+    "new_total": 10021,
+    "source_page_count": 11,
+    "source_pages": [
+      "Wikipedia:Vital articles/Level 4/Arts",
+      "Wikipedia:Vital articles/Level 4/Biology and health sciences",
+      "Wikipedia:Vital articles/Level 4/Everyday life",
+      "Wikipedia:Vital articles/Level 4/Geography",
+      "Wikipedia:Vital articles/Level 4/History",
+      "Wikipedia:Vital articles/Level 4/Mathematics",
+      "Wikipedia:Vital articles/Level 4/People",
+      "Wikipedia:Vital articles/Level 4/Philosophy and religion",
+      "Wikipedia:Vital articles/Level 4/Physical sciences",
+      "Wikipedia:Vital articles/Level 4/Society and social sciences",
+      "Wikipedia:Vital articles/Level 4/Technology"
+    ]
   }
 ]
