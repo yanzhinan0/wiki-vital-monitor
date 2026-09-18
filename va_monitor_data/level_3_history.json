@@ -206,5 +206,21 @@
     "source_pages": [
       "Wikipedia:Vital_articles/Level_3"
     ]
+  },
+  {
+    "level": 3,
+    "revision_timestamp": "2026-09-18T19:35:08Z",
+    "checked_at": "2026-09-18T20:02:02.596684+00:00",
+    "added": [
+      "Classical antiquity",
+      "Sanskrit"
+    ],
+    "removed": [],
+    "old_total": 1000,
+    "new_total": 1002,
+    "source_page_count": 1,
+    "source_pages": [
+      "Wikipedia:Vital_articles/Level_3"
+    ]
   }
 ]

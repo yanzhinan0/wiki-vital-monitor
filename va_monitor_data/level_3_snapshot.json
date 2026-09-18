@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "level": 3,
-  "timestamp": "2026-09-17T21:28:18Z",
-  "checked_at": "2026-09-18T01:40:55.892619+00:00",
-  "total_count": 1000,
+  "timestamp": "2026-09-18T19:35:08Z",
+  "checked_at": "2026-09-18T20:02:02.597144+00:00",
+  "total_count": 1002,
   "collection_method": "总页面",
   "source_page_count": 1,
   "source_pages": [
@@ -194,6 +194,7 @@
     "City",
     "Civil engineering",
     "Civilization",
+    "Classical antiquity",
     "Classical mechanics",
     "Classical music",
     "Cleopatra",
@@ -805,6 +806,7 @@
     "Sahara",
     "Salt",
     "Sanitation",
+    "Sanskrit",
     "Satellite",
     "Saturn",
     "Saudi Arabia",
