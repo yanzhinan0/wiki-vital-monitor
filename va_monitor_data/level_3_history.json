@@ -186,5 +186,25 @@
     "source_pages": [
       "Wikipedia:Vital_articles/Level_3"
     ]
+  },
+  {
+    "level": 3,
+    "revision_timestamp": "2026-09-17T21:28:18Z",
+    "checked_at": "2026-09-18T01:40:55.892199+00:00",
+    "added": [
+      "Calligraphy",
+      "Natural resource"
+    ],
+    "removed": [
+      "Contemporary history",
+      "Electric light",
+      "Tropical cyclone"
+    ],
+    "old_total": 1001,
+    "new_total": 1000,
+    "source_page_count": 1,
+    "source_pages": [
+      "Wikipedia:Vital_articles/Level_3"
+    ]
   }
 ]
