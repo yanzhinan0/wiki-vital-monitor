@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "level": 3,
-  "timestamp": "2026-09-18T19:35:08Z",
-  "checked_at": "2026-09-18T20:02:02.597144+00:00",
-  "total_count": 1002,
+  "timestamp": "2026-09-18T20:35:47Z",
+  "checked_at": "2026-09-19T01:45:38.202433+00:00",
+  "total_count": 1001,
   "collection_method": "总页面",
   "source_page_count": 1,
   "source_pages": [
@@ -806,7 +806,6 @@
     "Sahara",
     "Salt",
     "Sanitation",
-    "Sanskrit",
     "Satellite",
     "Saturn",
     "Saudi Arabia",

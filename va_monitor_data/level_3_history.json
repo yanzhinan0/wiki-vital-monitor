@@ -222,5 +222,20 @@
     "source_pages": [
       "Wikipedia:Vital_articles/Level_3"
     ]
+  },
+  {
+    "level": 3,
+    "revision_timestamp": "2026-09-18T20:35:47Z",
+    "checked_at": "2026-09-19T01:45:38.202119+00:00",
+    "added": [],
+    "removed": [
+      "Sanskrit"
+    ],
+    "old_total": 1002,
+    "new_total": 1001,
+    "source_page_count": 1,
+    "source_pages": [
+      "Wikipedia:Vital_articles/Level_3"
+    ]
   }
 ]
