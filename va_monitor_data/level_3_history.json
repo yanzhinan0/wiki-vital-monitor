@@ -237,5 +237,25 @@
     "source_pages": [
       "Wikipedia:Vital_articles/Level_3"
     ]
+  },
+  {
+    "level": 3,
+    "revision_timestamp": "2026-09-25T20:41:13Z",
+    "checked_at": "2026-09-25T20:46:47.662707+00:00",
+    "added": [
+      "Imagination",
+      "Logogram"
+    ],
+    "removed": [
+      "Chinese characters",
+      "Nikola Tesla",
+      "Wu Zetian"
+    ],
+    "old_total": 1001,
+    "new_total": 1000,
+    "source_page_count": 1,
+    "source_pages": [
+      "Wikipedia:Vital_articles/Level_3"
+    ]
   }
 ]
