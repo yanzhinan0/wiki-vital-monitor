@@ -233,5 +233,36 @@
       "Wikipedia:Vital articles/Level 4/Society and social sciences",
       "Wikipedia:Vital articles/Level 4/Technology"
     ]
+  },
+  {
+    "level": 4,
+    "revision_timestamp": "2026-09-26T15:31:22Z",
+    "checked_at": "2026-09-26T20:14:24.630106+00:00",
+    "added": [
+      "Lhasa (prefecture-level city)"
+    ],
+    "removed": [
+      "Austin, Texas",
+      "Barranquilla",
+      "Lhasa",
+      "Neurosis",
+      "Proportion (architecture)"
+    ],
+    "old_total": 10019,
+    "new_total": 10015,
+    "source_page_count": 11,
+    "source_pages": [
+      "Wikipedia:Vital articles/Level 4/Arts",
+      "Wikipedia:Vital articles/Level 4/Biology and health sciences",
+      "Wikipedia:Vital articles/Level 4/Everyday life",
+      "Wikipedia:Vital articles/Level 4/Geography",
+      "Wikipedia:Vital articles/Level 4/History",
+      "Wikipedia:Vital articles/Level 4/Mathematics",
+      "Wikipedia:Vital articles/Level 4/People",
+      "Wikipedia:Vital articles/Level 4/Philosophy and religion",
+      "Wikipedia:Vital articles/Level 4/Physical sciences",
+      "Wikipedia:Vital articles/Level 4/Society and social sciences",
+      "Wikipedia:Vital articles/Level 4/Technology"
+    ]
   }
 ]
