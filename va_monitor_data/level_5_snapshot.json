@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "level": 5,
-  "timestamp": "2026-10-01T15:34:04Z",
-  "checked_at": "2026-10-01T17:33:03.008368+00:00",
-  "total_count": 49845,
+  "timestamp": "2026-10-01T20:38:24Z",
+  "checked_at": "2026-10-01T22:03:03.541540+00:00",
+  "total_count": 49847,
   "collection_method": "自动发现并汇总当前子列表",
   "source_page_count": 39,
   "source_pages": [
@@ -11912,6 +11912,7 @@
     "Diode bridge",
     "Diodorus Siculus",
     "Diogenes",
+    "Diogenes Laertius",
     "Diogo Cão",
     "Diol",
     "Dione (moon)",
@@ -39667,6 +39668,7 @@
     "Satellite",
     "Satellite galaxies of the Milky Way",
     "Satellite galaxy",
+    "Satellite imagery",
     "Satellite navigation",
     "Satellite navigation device",
     "Satellite phone",
