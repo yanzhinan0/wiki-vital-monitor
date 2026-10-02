@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "level": 5,
-  "timestamp": "2026-10-01T20:38:24Z",
-  "checked_at": "2026-10-01T22:03:03.541540+00:00",
-  "total_count": 49847,
+  "timestamp": "2026-10-02T01:28:12Z",
+  "checked_at": "2026-10-02T02:41:03.276338+00:00",
+  "total_count": 49848,
   "collection_method": "自动发现并汇总当前子列表",
   "source_page_count": 39,
   "source_pages": [
@@ -42286,6 +42286,7 @@
     "St Paul's Cathedral",
     "St. Augustine, Florida",
     "St. Bartholomew's Day massacre",
+    "St. Bernard (dog breed)",
     "St. Elmo's fire",
     "St. George's, Grenada",
     "St. John's, Antigua and Barbuda",
