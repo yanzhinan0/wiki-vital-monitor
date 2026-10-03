@@ -274,5 +274,20 @@
     "source_pages": [
       "Wikipedia:Vital_articles/Level_3"
     ]
+  },
+  {
+    "level": 3,
+    "revision_timestamp": "2026-10-02T23:27:10Z",
+    "checked_at": "2026-10-03T02:26:57.123125+00:00",
+    "added": [],
+    "removed": [
+      "Bhagavad Gita"
+    ],
+    "old_total": 1003,
+    "new_total": 1002,
+    "source_page_count": 1,
+    "source_pages": [
+      "Wikipedia:Vital_articles/Level_3"
+    ]
   }
 ]
