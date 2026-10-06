@@ -470,5 +470,31 @@
       "Wikipedia:Vital articles/Level 4/Society and social sciences",
       "Wikipedia:Vital articles/Level 4/Technology"
     ]
+  },
+  {
+    "level": 4,
+    "revision_timestamp": "2026-10-06T14:35:00Z",
+    "checked_at": "2026-10-06T21:55:22.397417+00:00",
+    "added": [],
+    "removed": [
+      "Edward Weston",
+      "The Color Purple"
+    ],
+    "old_total": 10030,
+    "new_total": 10028,
+    "source_page_count": 11,
+    "source_pages": [
+      "Wikipedia:Vital articles/Level 4/Arts",
+      "Wikipedia:Vital articles/Level 4/Biology and health sciences",
+      "Wikipedia:Vital articles/Level 4/Everyday life",
+      "Wikipedia:Vital articles/Level 4/Geography",
+      "Wikipedia:Vital articles/Level 4/History",
+      "Wikipedia:Vital articles/Level 4/Mathematics",
+      "Wikipedia:Vital articles/Level 4/People",
+      "Wikipedia:Vital articles/Level 4/Philosophy and religion",
+      "Wikipedia:Vital articles/Level 4/Physical sciences",
+      "Wikipedia:Vital articles/Level 4/Society and social sciences",
+      "Wikipedia:Vital articles/Level 4/Technology"
+    ]
   }
 ]

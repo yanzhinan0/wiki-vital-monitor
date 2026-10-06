@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "level": 4,
-  "timestamp": "2026-10-05T15:07:23Z",
-  "checked_at": "2026-10-05T23:23:07.534898+00:00",
-  "total_count": 10030,
+  "timestamp": "2026-10-06T14:35:00Z",
+  "checked_at": "2026-10-06T21:55:22.398174+00:00",
+  "total_count": 10028,
   "collection_method": "自动发现并汇总当前子列表",
   "source_page_count": 11,
   "source_pages": [
@@ -2686,7 +2686,6 @@
     "Edward Said",
     "Edward Teller",
     "Edward Thorndike",
-    "Edward Weston",
     "Edwin Hubble",
     "Eel",
     "Egg",
@@ -9016,7 +9015,6 @@
     "The Canterbury Tales",
     "The Catcher in the Rye",
     "The Chronicles of Narnia",
-    "The Color Purple",
     "The Communist Manifesto",
     "The Four Seasons (Vivaldi)",
     "The Gambia",

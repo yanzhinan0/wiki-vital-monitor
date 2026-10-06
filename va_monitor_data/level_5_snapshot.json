@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "level": 5,
-  "timestamp": "2026-10-06T10:14:21Z",
-  "checked_at": "2026-10-06T12:16:05.290309+00:00",
-  "total_count": 49864,
+  "timestamp": "2026-10-06T19:26:35Z",
+  "checked_at": "2026-10-06T21:56:03.122352+00:00",
+  "total_count": 49865,
   "collection_method": "自动发现并汇总当前子列表",
   "source_page_count": 39,
   "source_pages": [
@@ -7472,6 +7472,7 @@
     "Carrie Underwood",
     "Carroll O'Connor",
     "Carrom",
+    "Carrossel",
     "Carrot",
     "Carrying capacity",
     "Carson McCullers",
