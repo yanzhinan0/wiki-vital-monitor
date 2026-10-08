@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "level": 5,
-  "timestamp": "2026-10-08T03:03:23Z",
-  "checked_at": "2026-10-08T03:07:03.024010+00:00",
-  "total_count": 49857,
+  "timestamp": "2026-10-08T08:09:02Z",
+  "checked_at": "2026-10-08T12:18:02.550605+00:00",
+  "total_count": 49858,
   "collection_method": "自动发现并汇总当前子列表",
   "source_page_count": 39,
   "source_pages": [
@@ -30273,6 +30273,7 @@
     "Moktar Ould Daddah",
     "Molality",
     "Molar concentration",
+    "Molar mass",
     "Molasses",
     "Mold",
     "Moldavia",
