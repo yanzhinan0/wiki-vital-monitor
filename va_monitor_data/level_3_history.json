@@ -306,5 +306,23 @@
     "source_pages": [
       "Wikipedia:Vital_articles/Level_3"
     ]
+  },
+  {
+    "level": 3,
+    "revision_timestamp": "2026-10-12T08:03:58Z",
+    "checked_at": "2026-10-12T13:36:33.426638+00:00",
+    "added": [
+      "European colonization of the Americas"
+    ],
+    "removed": [
+      "Atlantic slave trade",
+      "Autism"
+    ],
+    "old_total": 1002,
+    "new_total": 1001,
+    "source_page_count": 1,
+    "source_pages": [
+      "Wikipedia:Vital_articles/Level_3"
+    ]
   }
 ]
