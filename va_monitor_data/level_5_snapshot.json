@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "level": 5,
-  "timestamp": "2026-10-11T15:42:07Z",
-  "checked_at": "2026-10-11T16:50:02.470932+00:00",
-  "total_count": 49851,
+  "timestamp": "2026-10-12T01:04:58Z",
+  "checked_at": "2026-10-12T02:46:02.254172+00:00",
+  "total_count": 49852,
   "collection_method": "自动发现并汇总当前子列表",
   "source_page_count": 39,
   "source_pages": [
@@ -4121,6 +4121,7 @@
     "Babe Didrikson Zaharias",
     "Babe Paley",
     "Babe Ruth",
+    "Babelsberg Studio",
     "Babi Yar",
     "Babirusa",
     "Babol",
