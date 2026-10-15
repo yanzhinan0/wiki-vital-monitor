@@ -634,5 +634,33 @@
       "Wikipedia:Vital articles/Level 4/Society and social sciences",
       "Wikipedia:Vital articles/Level 4/Technology"
     ]
+  },
+  {
+    "level": 4,
+    "revision_timestamp": "2026-10-15T16:09:28Z",
+    "checked_at": "2026-10-15T20:34:35.242717+00:00",
+    "added": [
+      "Black tea"
+    ],
+    "removed": [
+      "Brandy",
+      "Gin"
+    ],
+    "old_total": 10023,
+    "new_total": 10022,
+    "source_page_count": 11,
+    "source_pages": [
+      "Wikipedia:Vital articles/Level 4/Arts",
+      "Wikipedia:Vital articles/Level 4/Biology and health sciences",
+      "Wikipedia:Vital articles/Level 4/Everyday life",
+      "Wikipedia:Vital articles/Level 4/Geography",
+      "Wikipedia:Vital articles/Level 4/History",
+      "Wikipedia:Vital articles/Level 4/Mathematics",
+      "Wikipedia:Vital articles/Level 4/People",
+      "Wikipedia:Vital articles/Level 4/Philosophy and religion",
+      "Wikipedia:Vital articles/Level 4/Physical sciences",
+      "Wikipedia:Vital articles/Level 4/Society and social sciences",
+      "Wikipedia:Vital articles/Level 4/Technology"
+    ]
   }
 ]
