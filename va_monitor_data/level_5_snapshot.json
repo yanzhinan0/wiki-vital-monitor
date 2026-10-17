@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "level": 5,
-  "timestamp": "2026-10-17T01:37:30Z",
-  "checked_at": "2026-10-17T01:43:01.597084+00:00",
-  "total_count": 49839,
+  "timestamp": "2026-10-17T08:06:07Z",
+  "checked_at": "2026-10-17T09:46:03.524325+00:00",
+  "total_count": 49840,
   "collection_method": "自动发现并汇总当前子列表",
   "source_page_count": 39,
   "source_pages": [
@@ -35261,6 +35261,7 @@
     "Plane table",
     "Plane wave",
     "Planet",
+    "Planet Earth (2006 TV series)",
     "Planet Nine",
     "Planet of the Apes (1968 film)",
     "Planetarium",
