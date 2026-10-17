@@ -324,5 +324,22 @@
     "source_pages": [
       "Wikipedia:Vital_articles/Level_3"
     ]
+  },
+  {
+    "level": 3,
+    "revision_timestamp": "2026-10-17T18:18:46Z",
+    "checked_at": "2026-10-17T19:44:29.652719+00:00",
+    "added": [
+      "Health care"
+    ],
+    "removed": [
+      "Dentistry"
+    ],
+    "old_total": 1001,
+    "new_total": 1001,
+    "source_page_count": 1,
+    "source_pages": [
+      "Wikipedia:Vital_articles/Level_3"
+    ]
   }
 ]
