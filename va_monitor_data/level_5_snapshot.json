@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "level": 5,
-  "timestamp": "2026-10-19T08:07:52Z",
-  "checked_at": "2026-10-19T11:20:02.674972+00:00",
-  "total_count": 49841,
+  "timestamp": "2026-10-19T14:07:42Z",
+  "checked_at": "2026-10-19T17:49:03.314227+00:00",
+  "total_count": 49839,
   "collection_method": "自动发现并汇总当前子列表",
   "source_page_count": 39,
   "source_pages": [
@@ -44555,7 +44555,6 @@
     "The Good Soldier",
     "The Good Soldier Švejk",
     "The Good, the Bad and the Ugly",
-    "The Good, the Bad and the Ugly (soundtrack)",
     "The Goon Show",
     "The Graduate",
     "The Grapes of Wrath",
@@ -44861,7 +44860,6 @@
     "The Turkish Bath",
     "The Twelve Caesars",
     "The Twilight Zone",
-    "The Twist (song)",
     "The Two Fridas",
     "The Tyger",
     "The Ugly Duckling",
