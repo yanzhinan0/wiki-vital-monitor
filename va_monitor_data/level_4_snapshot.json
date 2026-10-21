@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "level": 4,
-  "timestamp": "2026-10-21T04:21:03Z",
-  "checked_at": "2026-10-21T10:40:00.921191+00:00",
-  "total_count": 10018,
+  "timestamp": "2026-10-21T13:21:22Z",
+  "checked_at": "2026-10-21T16:09:32.586992+00:00",
+  "total_count": 10017,
   "collection_method": "自动发现并汇总当前子列表",
   "source_page_count": 11,
   "source_pages": [
@@ -777,7 +777,6 @@
     "Attention",
     "Attention deficit hyperactivity disorder",
     "Attila",
-    "Aubrey Beardsley",
     "Auckland",
     "Audience",
     "Auditory system",
