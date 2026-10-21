@@ -803,5 +803,32 @@
       "Wikipedia:Vital articles/Level 4/Society and social sciences",
       "Wikipedia:Vital articles/Level 4/Technology"
     ]
+  },
+  {
+    "level": 4,
+    "revision_timestamp": "2026-10-21T00:05:37Z",
+    "checked_at": "2026-10-21T02:07:22.136534+00:00",
+    "added": [],
+    "removed": [
+      "Andrew Mellon",
+      "Box turtle",
+      "Troy"
+    ],
+    "old_total": 10021,
+    "new_total": 10018,
+    "source_page_count": 11,
+    "source_pages": [
+      "Wikipedia:Vital articles/Level 4/Arts",
+      "Wikipedia:Vital articles/Level 4/Biology and health sciences",
+      "Wikipedia:Vital articles/Level 4/Everyday life",
+      "Wikipedia:Vital articles/Level 4/Geography",
+      "Wikipedia:Vital articles/Level 4/History",
+      "Wikipedia:Vital articles/Level 4/Mathematics",
+      "Wikipedia:Vital articles/Level 4/People",
+      "Wikipedia:Vital articles/Level 4/Philosophy and religion",
+      "Wikipedia:Vital articles/Level 4/Physical sciences",
+      "Wikipedia:Vital articles/Level 4/Society and social sciences",
+      "Wikipedia:Vital articles/Level 4/Technology"
+    ]
   }
 ]
