@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "level": 5,
-  "timestamp": "2026-10-22T15:46:54Z",
-  "checked_at": "2026-10-22T16:08:02.598186+00:00",
-  "total_count": 49818,
+  "timestamp": "2026-10-22T20:45:44Z",
+  "checked_at": "2026-10-22T20:53:02.823970+00:00",
+  "total_count": 49820,
   "collection_method": "自动发现并汇总当前子列表",
   "source_page_count": 39,
   "source_pages": [
@@ -34527,6 +34527,7 @@
     "Persian Gulf",
     "Persian alphabet",
     "Persian art",
+    "Persian carpet",
     "Persian cat",
     "Persian gardens",
     "Persian language",
@@ -44098,6 +44099,7 @@
     "Television station",
     "Television studies",
     "Television studio",
+    "Tell Brak",
     "Telluric contamination",
     "Telluric iron",
     "Tellurium",

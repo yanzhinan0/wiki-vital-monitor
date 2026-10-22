@@ -15,5 +15,22 @@
     "source_pages": [
       "Wikipedia:Vital_articles/Level_2"
     ]
+  },
+  {
+    "level": 2,
+    "revision_timestamp": "2026-10-22T18:13:07Z",
+    "checked_at": "2026-10-22T20:52:40.758101+00:00",
+    "added": [
+      "Machine"
+    ],
+    "removed": [
+      "Computer"
+    ],
+    "old_total": 100,
+    "new_total": 100,
+    "source_page_count": 1,
+    "source_pages": [
+      "Wikipedia:Vital_articles/Level_2"
+    ]
   }
 ]
