@@ -341,5 +341,20 @@
     "source_pages": [
       "Wikipedia:Vital_articles/Level_3"
     ]
+  },
+  {
+    "level": 3,
+    "revision_timestamp": "2026-10-22T16:00:07Z",
+    "checked_at": "2026-10-22T16:07:19.994408+00:00",
+    "added": [],
+    "removed": [
+      "Asthma"
+    ],
+    "old_total": 1001,
+    "new_total": 1000,
+    "source_page_count": 1,
+    "source_pages": [
+      "Wikipedia:Vital_articles/Level_3"
+    ]
   }
 ]

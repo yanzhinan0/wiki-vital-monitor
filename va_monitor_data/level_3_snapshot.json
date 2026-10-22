@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "level": 3,
-  "timestamp": "2026-10-17T18:18:46Z",
-  "checked_at": "2026-10-17T19:44:29.653278+00:00",
-  "total_count": 1001,
+  "timestamp": "2026-10-22T16:00:07Z",
+  "checked_at": "2026-10-22T16:07:19.994875+00:00",
+  "total_count": 1000,
   "collection_method": "总页面",
   "source_page_count": 1,
   "source_pages": [
@@ -92,7 +92,6 @@
     "Asia",
     "Association football",
     "Asteroid",
-    "Asthma",
     "Astronomy",
     "Atheism",
     "Atlantic Ocean",
