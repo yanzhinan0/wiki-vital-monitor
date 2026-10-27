@@ -356,5 +356,20 @@
     "source_pages": [
       "Wikipedia:Vital_articles/Level_3"
     ]
+  },
+  {
+    "level": 3,
+    "revision_timestamp": "2026-10-26T22:41:55Z",
+    "checked_at": "2026-10-27T02:31:32.347457+00:00",
+    "added": [],
+    "removed": [
+      "Kurt Gödel"
+    ],
+    "old_total": 1000,
+    "new_total": 999,
+    "source_page_count": 1,
+    "source_pages": [
+      "Wikipedia:Vital_articles/Level_3"
+    ]
   }
 ]
